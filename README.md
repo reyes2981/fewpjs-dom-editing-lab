@@ -198,7 +198,7 @@ Control + C.
 We reviewed DOM nodes and their HTML sources, and we reviewed how the DOM is
 structured. We also looked at block and inline elements and their behaviors.
 Finally, we practiced working directly with the DOM.
-
+le
 ## Resources
 
 - [HTML Block Elements][html-block-elements]
